@@ -1,5 +1,21 @@
-body{
+body {
     background-color: rgb(79, 190, 224);
-    margin-left:25%;
-    margin-top: 70px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+/* Media query for screens wider than 600px */
+@media (min-width: 600px) {
+    body {
+        margin-left: 25%;
+        margin-top: 70px;
+    }
+}
+
+/* Media query for screens wider than 900px */
+@media (min-width: 900px) {
+    body {
+        margin-left: 30%;
+        margin-top: 70px;
+    }
 }
