@@ -1,21 +1,27 @@
 body {
-    background-color: rgb(79, 190, 224);
-    margin-left: 10%;
+    background-color: #D0BEB6;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 20px;
+    font-size: 16px; 
 }
 
-/* Media query for screens wider than 600px */
+
 @media (min-width: 600px) {
     body {
-        margin-left: 25%;
-        margin-top: 70px;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 40px;
+        font-size: 18px; 
     }
 }
 
-/* Media query for screens wider than 900px */
-@media (min-width: 900px) {
+
+@media (min-width: 1200px) {
     body {
-        margin-left: 30%;
-        margin-top: 70px;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 60px;
+        font-size: 20px; 
     }
 }
