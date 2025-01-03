@@ -32,7 +32,7 @@ You can play the game live here: [Live Demo](https://ahmad-bradii.github.io/Flap
 ## Features
 
 - Classic Flappy Bird gameplay mechanics.
-- Responsive design for desktop and mobile devices.
+- Responsive design for desktop and mobile devices(Desktop mode required). 
 - Score tracking to challenge yourself or friends.
 - Simple and intuitive controls.
 - Custom assets and animations.
